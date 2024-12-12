@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u22099" alt="u22099" /></a> </p>
 <img align="right" alt="Coding" style="border-radius: 10px;" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRkemR1bmd1ZjMyc3phYXN2a2duMjE2eWV2eDd3OTJqanR2NzNycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" />
 
-- 🔭 I currently finished a project [Lumina Ai](https://u22099.github.io/Lumina-AI)
+- 🔭 I currently finished a project [Zephyr](https://zephyr-chat.onrender.com)
 
 - 🌱 I'm currently learning **Socket.Io, Nextjs, Firebase...**
 
