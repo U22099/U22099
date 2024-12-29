@@ -6,11 +6,11 @@
 
 - 🔭 I currently finished a project [Zephyr](https://zephyr-chat.onrender.com)
 
-- 🌱 I'm currently learning **Socket.Io, Nextjs, Firebase...**
+- 🌱 I'm currently learning **Postgres, prisma, docker, encore, graphql**
 
 - 👯 I’m looking to collaborate on any project, you do.
 
-- 👨‍💻 you can view my portfolio at [https://u22099.github.io/Portfolio2](https://u22099.github.io/Portfolio2)
+- 👨‍💻 you can view my portfolio [here](https://u22099.github.io/Portfolio)
 
 - 💬 Ask me about **react, nextjs, firebase, mern**
 
