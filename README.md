@@ -47,7 +47,7 @@
 *One-stop buddy for generating, editing, and managing content with AI*
 
 **Zephyr** — Recent full-stack project (details in repo)
-→ Live at [zephyr.com](https://zephyr-ktqp.onrender.com)
+→ Live at [zephyr.com](https://zephyr-chat.onrender.com)
 
 ### 📊 GitHub Statistics
 
