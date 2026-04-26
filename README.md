@@ -1,35 +1,83 @@
-[![MasterHead](https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)](https://u22099.github.io/Portfolio2)
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A fullstack developer using (MERN + Nextjs)</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u22099" alt="u22099" /></a> </p>
-<img align="right" alt="Coding" style="border-radius: 10px;" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRkemR1bmd1ZjMyc3phYXN2a2duMjE2eWV2eDd3OTJqanR2NzNycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" />
+<div align="center">
 
-- 🔭 I currently finished a project [Zephyr](https://zephyr-chat.onrender.com)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Daniel+%F0%9F%91%8B;Full-Stack+Web/App+Developer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🌱 I'm currently learning **Postgres, prisma, docker, encore, graphql**
+  <br>
 
-- 👯 I’m looking to collaborate on any project, you do.
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdmZWZnNzM2bmZxMzVkdmF6YnZwYTB2aDhrbDM0ejdiMWtpYmVscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Coding GIF" />
 
-- 👨‍💻 you can view my portfolio [here](https://u22099.github.io/Portfolio)
+  <h3>🚀 Turning ideas into scalable digital products from Lagos, Nigeria</h3>
 
-- 💬 Ask me about **react, nextjs, firebase, mern**
+  <p>
+    <strong>MERN</strong> • <strong>Next.js</strong> • <strong>Laravel</strong> • <strong>Prisma + PostgreSQL</strong> • <strong>TypeScript</strong> • <strong>Docker</strong> • <strong>GraphQL</strong> • <strong>AI Automations</strong>
+  </p>
 
-- 📫 How to reach me **u22099dandev@gmail.com**
+</div>
 
-- ⚡ Fun fact **I just can't resist coding**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/u22099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="u22099" height="30" width="40" /></a>
-<a href="https://fb.com/daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daniel" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 Currently shipping **SmartNotify** — your one-stop AI-powered content creation buddy (Web + Mobile apps on Play Store & App Store)
+- 🌱 Deepening my skills in **Docker**, **Encore**, **GraphQL**, and advanced backend architecture
+- 💼 Open to remote/full-time opportunities and interesting collaborations
+- ⚡ Fun fact: I code late into the night with a cup of tea while listening to lo-fi beats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u22099&show_icons=true&locale=en&layout=compact" alt="u22099" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=u22099&show_icons=true&locale=en" alt="u22099" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=u22099&" alt="u22099" /></p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🔥 Featured Projects
+
+**ContentQ** — AI Content Creation Platform  
+→ Live on [contentq.me](https://contentq.me) | Available on Google Play & App Store  
+*One-stop buddy for generating, editing, and managing content with AI*
+
+**Zephyr** — Recent full-stack project (details in repo)
+→ Live at [zephyr.com](https://zephyr-ktqp.onrender.com)
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=U22099&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=U22099&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=U22099&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter/X](https://img.shields.io/badge/Twitter-@dan_22099-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dan_22099)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dan22099)
+[![Email](https://img.shields.io/badge/Email-u22099dandev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u22099dandev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349033572229)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=U22099&label=Profile%20Views&color=00FF9D&style=flat-square" alt="Profile Views" />
+  
+  <p><em>"Wake ☕ Code 👨‍💻 Sleep Late ⏰ Repeat 🔂"</em></p>
+  
+  <strong>Thanks for stopping by! ✨ Feel free to explore my repos and say hi.</strong>
+</div>
